@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Learning Progression Explorer",
+  "name": "ACER's Learning Progression Explorer for reading comprehension and mathematics",
   "icons": [
     {
       "src": "favicon.ico",
